@@ -1,0 +1,6 @@
+framework module Pods_Reqres_InTests {
+  umbrella header "Pods-Reqres InTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
